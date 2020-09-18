@@ -1,0 +1,585 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AC613B3F251571E500329EE7 /* LiftVeilApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B3E251571E500329EE7 /* LiftVeilApp.swift */; };
+		AC613B41251571E500329EE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B40251571E500329EE7 /* ContentView.swift */; };
+		AC613B43251571E600329EE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC613B42251571E600329EE7 /* Assets.xcassets */; };
+		AC613B46251571E600329EE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC613B45251571E600329EE7 /* Preview Assets.xcassets */; };
+		AC613B51251571E700329EE7 /* LiftVeilTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B50251571E700329EE7 /* LiftVeilTests.swift */; };
+		AC613B5C251571E700329EE7 /* LiftVeilUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B5B251571E700329EE7 /* LiftVeilUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AC613B4D251571E700329EE7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AC613B33251571E500329EE7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AC613B3A251571E500329EE7;
+			remoteInfo = LiftVeil;
+		};
+		AC613B58251571E700329EE7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AC613B33251571E500329EE7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AC613B3A251571E500329EE7;
+			remoteInfo = LiftVeil;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AC613B3B251571E500329EE7 /* LiftVeil.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiftVeil.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC613B3E251571E500329EE7 /* LiftVeilApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiftVeilApp.swift; sourceTree = "<group>"; };
+		AC613B40251571E500329EE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AC613B42251571E600329EE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AC613B45251571E600329EE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AC613B47251571E600329EE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC613B4C251571E700329EE7 /* LiftVeilTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LiftVeilTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC613B50251571E700329EE7 /* LiftVeilTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiftVeilTests.swift; sourceTree = "<group>"; };
+		AC613B52251571E700329EE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC613B57251571E700329EE7 /* LiftVeilUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LiftVeilUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC613B5B251571E700329EE7 /* LiftVeilUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiftVeilUITests.swift; sourceTree = "<group>"; };
+		AC613B5D251571E700329EE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AC613B38251571E500329EE7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC613B49251571E700329EE7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC613B54251571E700329EE7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AC613B32251571E500329EE7 = {
+			isa = PBXGroup;
+			children = (
+				AC613B3D251571E500329EE7 /* LiftVeil */,
+				AC613B4F251571E700329EE7 /* LiftVeilTests */,
+				AC613B5A251571E700329EE7 /* LiftVeilUITests */,
+				AC613B3C251571E500329EE7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AC613B3C251571E500329EE7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AC613B3B251571E500329EE7 /* LiftVeil.app */,
+				AC613B4C251571E700329EE7 /* LiftVeilTests.xctest */,
+				AC613B57251571E700329EE7 /* LiftVeilUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AC613B3D251571E500329EE7 /* LiftVeil */ = {
+			isa = PBXGroup;
+			children = (
+				AC613B3E251571E500329EE7 /* LiftVeilApp.swift */,
+				AC613B40251571E500329EE7 /* ContentView.swift */,
+				AC613B42251571E600329EE7 /* Assets.xcassets */,
+				AC613B47251571E600329EE7 /* Info.plist */,
+				AC613B44251571E600329EE7 /* Preview Content */,
+			);
+			path = LiftVeil;
+			sourceTree = "<group>";
+		};
+		AC613B44251571E600329EE7 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				AC613B45251571E600329EE7 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AC613B4F251571E700329EE7 /* LiftVeilTests */ = {
+			isa = PBXGroup;
+			children = (
+				AC613B50251571E700329EE7 /* LiftVeilTests.swift */,
+				AC613B52251571E700329EE7 /* Info.plist */,
+			);
+			path = LiftVeilTests;
+			sourceTree = "<group>";
+		};
+		AC613B5A251571E700329EE7 /* LiftVeilUITests */ = {
+			isa = PBXGroup;
+			children = (
+				AC613B5B251571E700329EE7 /* LiftVeilUITests.swift */,
+				AC613B5D251571E700329EE7 /* Info.plist */,
+			);
+			path = LiftVeilUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AC613B3A251571E500329EE7 /* LiftVeil */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AC613B60251571E700329EE7 /* Build configuration list for PBXNativeTarget "LiftVeil" */;
+			buildPhases = (
+				AC613B37251571E500329EE7 /* Sources */,
+				AC613B38251571E500329EE7 /* Frameworks */,
+				AC613B39251571E500329EE7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LiftVeil;
+			productName = LiftVeil;
+			productReference = AC613B3B251571E500329EE7 /* LiftVeil.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AC613B4B251571E700329EE7 /* LiftVeilTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AC613B63251571E700329EE7 /* Build configuration list for PBXNativeTarget "LiftVeilTests" */;
+			buildPhases = (
+				AC613B48251571E700329EE7 /* Sources */,
+				AC613B49251571E700329EE7 /* Frameworks */,
+				AC613B4A251571E700329EE7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AC613B4E251571E700329EE7 /* PBXTargetDependency */,
+			);
+			name = LiftVeilTests;
+			productName = LiftVeilTests;
+			productReference = AC613B4C251571E700329EE7 /* LiftVeilTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AC613B56251571E700329EE7 /* LiftVeilUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AC613B66251571E700329EE7 /* Build configuration list for PBXNativeTarget "LiftVeilUITests" */;
+			buildPhases = (
+				AC613B53251571E700329EE7 /* Sources */,
+				AC613B54251571E700329EE7 /* Frameworks */,
+				AC613B55251571E700329EE7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AC613B59251571E700329EE7 /* PBXTargetDependency */,
+			);
+			name = LiftVeilUITests;
+			productName = LiftVeilUITests;
+			productReference = AC613B57251571E700329EE7 /* LiftVeilUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AC613B33251571E500329EE7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					AC613B3A251571E500329EE7 = {
+						CreatedOnToolsVersion = 12.0;
+					};
+					AC613B4B251571E700329EE7 = {
+						CreatedOnToolsVersion = 12.0;
+						TestTargetID = AC613B3A251571E500329EE7;
+					};
+					AC613B56251571E700329EE7 = {
+						CreatedOnToolsVersion = 12.0;
+						TestTargetID = AC613B3A251571E500329EE7;
+					};
+				};
+			};
+			buildConfigurationList = AC613B36251571E500329EE7 /* Build configuration list for PBXProject "LiftVeil" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AC613B32251571E500329EE7;
+			productRefGroup = AC613B3C251571E500329EE7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AC613B3A251571E500329EE7 /* LiftVeil */,
+				AC613B4B251571E700329EE7 /* LiftVeilTests */,
+				AC613B56251571E700329EE7 /* LiftVeilUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AC613B39251571E500329EE7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC613B46251571E600329EE7 /* Preview Assets.xcassets in Resources */,
+				AC613B43251571E600329EE7 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC613B4A251571E700329EE7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC613B55251571E700329EE7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AC613B37251571E500329EE7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC613B41251571E500329EE7 /* ContentView.swift in Sources */,
+				AC613B3F251571E500329EE7 /* LiftVeilApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC613B48251571E700329EE7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC613B51251571E700329EE7 /* LiftVeilTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC613B53251571E700329EE7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AC613B5C251571E700329EE7 /* LiftVeilUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AC613B4E251571E700329EE7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AC613B3A251571E500329EE7 /* LiftVeil */;
+			targetProxy = AC613B4D251571E700329EE7 /* PBXContainerItemProxy */;
+		};
+		AC613B59251571E700329EE7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AC613B3A251571E500329EE7 /* LiftVeil */;
+			targetProxy = AC613B58251571E700329EE7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		AC613B5E251571E700329EE7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AC613B5F251571E700329EE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AC613B61251571E700329EE7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"LiftVeil/Preview Content\"";
+				DEVELOPMENT_TEAM = PY6ULSEB84;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = LiftVeil/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iphonso.LiftVeil;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AC613B62251571E700329EE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"LiftVeil/Preview Content\"";
+				DEVELOPMENT_TEAM = PY6ULSEB84;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = LiftVeil/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iphonso.LiftVeil;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		AC613B64251571E700329EE7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PY6ULSEB84;
+				INFOPLIST_FILE = LiftVeilTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iphonso.LiftVeilTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LiftVeil.app/LiftVeil";
+			};
+			name = Debug;
+		};
+		AC613B65251571E700329EE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PY6ULSEB84;
+				INFOPLIST_FILE = LiftVeilTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iphonso.LiftVeilTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LiftVeil.app/LiftVeil";
+			};
+			name = Release;
+		};
+		AC613B67251571E700329EE7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PY6ULSEB84;
+				INFOPLIST_FILE = LiftVeilUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iphonso.LiftVeilUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = LiftVeil;
+			};
+			name = Debug;
+		};
+		AC613B68251571E700329EE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PY6ULSEB84;
+				INFOPLIST_FILE = LiftVeilUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.iphonso.LiftVeilUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = LiftVeil;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AC613B36251571E500329EE7 /* Build configuration list for PBXProject "LiftVeil" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC613B5E251571E700329EE7 /* Debug */,
+				AC613B5F251571E700329EE7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AC613B60251571E700329EE7 /* Build configuration list for PBXNativeTarget "LiftVeil" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC613B61251571E700329EE7 /* Debug */,
+				AC613B62251571E700329EE7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AC613B63251571E700329EE7 /* Build configuration list for PBXNativeTarget "LiftVeilTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC613B64251571E700329EE7 /* Debug */,
+				AC613B65251571E700329EE7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AC613B66251571E700329EE7 /* Build configuration list for PBXNativeTarget "LiftVeilUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AC613B67251571E700329EE7 /* Debug */,
+				AC613B68251571E700329EE7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AC613B33251571E500329EE7 /* Project object */;
+}
