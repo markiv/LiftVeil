@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC559A1C2516378000496AFF /* movie.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AC559A1B2516378000496AFF /* movie.mp4 */; };
 		AC613B3F251571E500329EE7 /* LiftVeilApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B3E251571E500329EE7 /* LiftVeilApp.swift */; };
 		AC613B41251571E500329EE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B40251571E500329EE7 /* ContentView.swift */; };
 		AC613B43251571E600329EE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC613B42251571E600329EE7 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC559A1B2516378000496AFF /* movie.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = movie.mp4; sourceTree = "<group>"; };
 		AC613B3B251571E500329EE7 /* LiftVeil.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiftVeil.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC613B3E251571E500329EE7 /* LiftVeilApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiftVeilApp.swift; sourceTree = "<group>"; };
 		AC613B40251571E500329EE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 		AC613B6C2515723E00329EE7 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				AC559A1B2516378000496AFF /* movie.mp4 */,
 				ACC6BD49251579C000F7A105 /* movie.gpx */,
 			);
 			path = Resources;
@@ -247,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC559A1C2516378000496AFF /* movie.mp4 in Resources */,
 				AC613B46251571E600329EE7 /* Preview Assets.xcassets in Resources */,
 				AC613B43251571E600329EE7 /* Assets.xcassets in Resources */,
 				ACC6BD4A251579C000F7A105 /* movie.gpx in Resources */,

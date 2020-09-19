@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+LiftVeil/Resources/movie.mp4 filter=lfs diff=lfs merge=lfs -text
