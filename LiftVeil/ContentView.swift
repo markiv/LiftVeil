@@ -11,55 +11,10 @@ import MapKit
 import SwiftUI
 
 struct ContentView: View {
-    @StateObject var locationModel = LocationModel.shared
+    @StateObject private var locationModel = LocationModel()
     @State private var player = AVPlayer(url: Bundle.main.url(forResource: "movie", withExtension: "mp4")!)
-    @State private var mapRegion = MKCoordinateRegion(
-        center: CLLocationCoordinate2D(),
-        latitudinalMeters: 500, longitudinalMeters: 500
-    )
+    @State private var mapRegion = MKCoordinateRegion()
     @State private var nearestSignal: Signal?
-
-    var map: some View {
-        Map(coordinateRegion: $mapRegion, showsUserLocation: true, annotationItems: TrackData.site.signals) { signal in
-            MapAnnotation(coordinate: signal.location?.coordinate ?? CLLocationCoordinate2D(), anchorPoint: CGPoint(x: 0.5, y: 1)) {
-                if signal.elementType.contains("istant") {
-                    Image("distantsignal").foregroundColor(.red)
-                } else {
-                    Image("mainsignal").foregroundColor(.green)
-                }
-            }
-        }
-        .animation(.default)
-        .id("map")
-    }
-
-    var movie: some View {
-        ZStack(alignment: .topTrailing) {
-            VideoPlayer(player: player)
-                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                .navigationTitle("Lift the Veil")
-            hud
-        }.id("movie")
-    }
-
-    @ViewBuilder var hud: some View {
-        if let signal = nearestSignal {
-            VStack(alignment: .trailing) {
-                Text(signal.locationName).bold()
-                Text(signal.elementType)
-                if
-                    let signalLocation = signal.location,
-                    let distance = locationModel.location?.distance(from: signalLocation)
-                {
-                    Text("\(distance: distance)")
-                }
-            }
-            .font(.largeTitle)
-            .foregroundColor(.white)
-            .shadow(color: .black, radius: 1)
-            .padding()
-        }
-    }
 
     var body: some View {
         GeometryReader { geometry in
@@ -103,7 +58,51 @@ struct ContentView: View {
         .onAppear {
             player.play()
         }
-        .navigationViewStyle(StackNavigationViewStyle())
+    }
+
+    /// The map displaying current positions and signal pins
+    var map: some View {
+        Map(coordinateRegion: $mapRegion, showsUserLocation: true, annotationItems: TrackData.site.signals) { signal in
+            MapAnnotation(coordinate: signal.location?.coordinate ?? CLLocationCoordinate2D(), anchorPoint: CGPoint(x: 0.5, y: 1)) {
+                // Pick the appropriate pin
+                if signal.elementType.contains("istant") {
+                    Image("distantsignal").foregroundColor(.red)
+                } else {
+                    Image("mainsignal").foregroundColor(.green)
+                }
+            }
+        }
+        .animation(.default)
+        .id("map")
+    }
+
+    /// The good-weather movie that we'll synchronize with the train's actual position and speed
+    var movie: some View {
+        ZStack(alignment: .topTrailing) {
+            VideoPlayer(player: player)
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+            hud
+        }.id("movie")
+    }
+
+    /// A HUD (head-up display) to show the closest/next signal
+    @ViewBuilder var hud: some View {
+        if let signal = nearestSignal {
+            VStack(alignment: .trailing) {
+                Text(signal.locationName).bold()
+                Text(signal.elementType)
+                if
+                    let signalLocation = signal.location,
+                    let distance = locationModel.location?.distance(from: signalLocation)
+                {
+                    Text("\(distance: distance)")
+                }
+            }
+            .font(.largeTitle)
+            .foregroundColor(.white)
+            .shadow(color: .black, radius: 1)
+            .padding()
+        }
     }
 }
 

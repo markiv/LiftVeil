@@ -9,6 +9,7 @@
 import CoreLocation
 import Foundation
 
+/// The track data provided as JSON, contains geocoded signal elements.
 struct TrackData: Codable {
     let signals: [Signal]
 
@@ -17,6 +18,7 @@ struct TrackData: Codable {
     }
 }
 
+/// Represents a signal element in the dataset
 struct Signal: Codable, Identifiable {
     let id: String
     let elementType: String
@@ -39,13 +41,7 @@ struct Signal: Codable, Identifiable {
 }
 
 extension Signal {
-    var coordinate: CLLocationCoordinate2D? {
-        guard let latitude = latitude, let longitude = longitude else {
-            return nil
-        }
-        return CLLocationCoordinate2D(latitude: latitude, longitude: longitude)
-    }
-
+    /// Creates the CoreLocation location of this signal
     var location: CLLocation? {
         guard let latitude = latitude, let longitude = longitude else {
             return nil
@@ -55,12 +51,15 @@ extension Signal {
 }
 
 extension TrackData {
+    /// Bundled data fixture
     static let site: TrackData = {
         try! JSONDecoder()
             .decode(TrackData.self, from: Data(contentsOf:
                 Bundle.main.url(forResource: "TrackSiteData_2020_clean", withExtension: "json")!))
     }()
 
+    /// Finds the nearest Signal to a location
+    // TODO: Must be optimized for production
     func nearest(to location: CLLocation) -> Signal? {
         Self.site.signals.min {
             ($0.location?.distance(from: location) ?? .infinity)
