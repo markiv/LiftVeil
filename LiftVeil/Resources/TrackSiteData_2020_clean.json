@@ -1,0 +1,2111 @@
+{
+    "Trackdata": [
+        {
+            "ID": "BG 08567",
+            "Element Type": "Eurobalise",
+            "Relative Position": 39.905,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "A*",
+            "Element Type": "Distant signal",
+            "Relative Position": 39.909,
+            "Location": "Thusis",
+            "Latitude": 46.70993496,
+            "Longitude": 9.4377129
+        },
+        {
+            "ID": "BG 08568",
+            "Element Type": "Eurobalise",
+            "Relative Position": 40.595,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "A",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 40.600,
+            "Location": "Thusis",
+            "Latitude": 46.70395568,
+            "Longitude": 9.43967448
+        },
+        {
+            "ID": "BG 08569",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.007,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08571",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.024,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "B2",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.002,
+            "Location": "Thusis",
+            "Latitude": 46.70033565,
+            "Longitude": 9.44002959
+        },
+        {
+            "ID": "B3",
+            "Element Type": "Main signal",
+            "Relative Position": 41.026,
+            "Location": "Thusis",
+            "Latitude": 46.70007148,
+            "Longitude": 9.4400968
+        },
+        {
+            "ID": "C3",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.061,
+            "Location": "Thusis",
+            "Latitude": 46.69974231,
+            "Longitude": 9.44014329
+        },
+        {
+            "ID": "C1",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.065,
+            "Location": "Thusis",
+            "Latitude": 46.69974231,
+            "Longitude": 9.44014329
+        },
+        {
+            "ID": "BG 08575",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.066,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08573",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.072,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "C2",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.081,
+            "Location": "Thusis",
+            "Latitude": 46.6995888,
+            "Longitude": 9.44017072
+        },
+        {
+            "ID": "BG 08574",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.085,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "C4",
+            "Element Type": "Main signal",
+            "Relative Position": 41.117,
+            "Location": "Thusis",
+            "Latitude": 46.69929646,
+            "Longitude": 9.44024646
+        },
+        {
+            "ID": "BG 08576",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.122,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "C5",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.128,
+            "Location": "Thusis",
+            "Latitude": 46.69915247,
+            "Longitude": 9.44028485
+        },
+        {
+            "ID": "BG 08578",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.133,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08577",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.152,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08584",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.232,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08583",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.259,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "D5 ",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.263,
+            "Location": "Thusis",
+            "Latitude": 46.698287,
+            "Longitude": 9.440885
+        },
+        {
+            "ID": "BG 08582",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.266,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "D4",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.270,
+            "Location": "Thusis",
+            "Latitude": 46.698163,
+            "Longitude": 9.440929
+        },
+        {
+            "ID": "BG 08581",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.346,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "D3",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.350,
+            "Location": "Thusis",
+            "Latitude": 46.697441,
+            "Longitude": 9.441182
+        },
+        {
+            "ID": "BG 08580",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.362,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "E2",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.366,
+            "Location": "Thusis",
+            "Latitude": 46.69712021,
+            "Longitude": 9.44115357
+        },
+        {
+            "ID": "E1",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.369,
+            "Location": "Thusis",
+            "Latitude": 46.69712021,
+            "Longitude": 9.44115357
+        },
+        {
+            "ID": "E3",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.408,
+            "Location": "Thusis",
+            "Latitude": 46.69681376,
+            "Longitude": 9.4413089
+        },
+        {
+            "ID": "BG 08585",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.408,
+            "Location": "Thusis",
+            "Latitude": 46.69681376,
+            "Longitude": 9.4413089
+        },
+        {
+            "ID": "PO",
+            "Element Type": "Position offset",
+            "Additional Information": "+1m (track 2)",
+            "Relative Position": 41.599,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "PO ",
+            "Element Type": "Position offset",
+            "Additional Information": "-1m (track 1)",
+            "Relative Position": 41.601,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "F63/C*63/BS",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.646,
+            "Location": "Thusis",
+            "Latitude": 46.695119,
+            "Longitude": 9.442516
+        },
+        {
+            "ID": "F62/C*62 / BS",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 41.646,
+            "Location": "Thusis",
+            "Latitude": 46.695119,
+            "Longitude": 9.442516
+        },
+        {
+            "ID": "ZS F63",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 41.646,
+            "Location": "Thusis",
+            "Latitude": 46.695119,
+            "Longitude": 9.442516
+        },
+        {
+            "ID": "ZS F62",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 41.646,
+            "Location": "Thusis",
+            "Latitude": 46.695119,
+            "Longitude": 9.442516
+        },
+        {
+            "ID": "BG 08588",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.650,
+            "Location": "Thusis",
+            "Latitude": 46.695119,
+            "Longitude": 9.442516
+        },
+        {
+            "ID": "BG 08587",
+            "Element Type": "Eurobalise",
+            "Relative Position": 41.650,
+            "Location": "Thusis",
+            "Latitude": 46.695119,
+            "Longitude": 9.442516
+        },
+        {
+            "ID": "PO",
+            "Element Type": "Position offset",
+            "Additional Information": "+11m (track 62)",
+            "Relative Position": 41.989,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "PO",
+            "Element Type": "Position offset",
+            "Additional Information": "+6m (track 63)",
+            "Relative Position": 41.994,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "F*63",
+            "Element Type": "Distant signal",
+            "Relative Position": 42.181,
+            "Location": "Thusis",
+            "Latitude": 46.695822,
+            "Longitude": 9.448731
+        },
+        {
+            "ID": "F*62",
+            "Element Type": "Distant signal",
+            "Relative Position": 42.181,
+            "Location": "Thusis",
+            "Latitude": 46.695822,
+            "Longitude": 9.448731
+        },
+        {
+            "ID": "BG 08590",
+            "Element Type": "Eurobalise",
+            "Relative Position": 42.186,
+            "Location": "Thusis",
+            "Latitude": 46.695822,
+            "Longitude": 9.448731
+        },
+        {
+            "ID": "BG 08589",
+            "Element Type": "Eurobalise",
+            "Relative Position": 42.186,
+            "Location": "Thusis",
+            "Latitude": 46.695822,
+            "Longitude": 9.448731
+        },
+        {
+            "ID": "BG 08591",
+            "Element Type": "Eurobalise",
+            "Relative Position": 42.262,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08592",
+            "Element Type": "Eurobalise",
+            "Relative Position": 42.262,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08593",
+            "Element Type": "Eurobalise",
+            "Relative Position": 42.756,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08594",
+            "Element Type": "Eurobalise",
+            "Relative Position": 42.756,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "ZS F*63",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 42.181,
+            "Location": "Thusis",
+            "Latitude": 46.695822,
+            "Longitude": 9.448731
+        },
+        {
+            "ID": "ZS F*62",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 42.181,
+            "Location": "Thusis",
+            "Latitude": 46.695822,
+            "Longitude": 9.448731
+        },
+        {
+            "ID": "G*63",
+            "Element Type": "Distant signal",
+            "Relative Position": 42.266,
+            "Location": "Thusis",
+            "Latitude": 46.696232,
+            "Longitude": 9.449582
+        },
+        {
+            "ID": "G*62",
+            "Element Type": "Distant signal",
+            "Relative Position": 42.266,
+            "Location": "Thusis",
+            "Latitude": 46.696232,
+            "Longitude": 9.449582
+        },
+        {
+            "ID": "ZS G*63",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 42.266,
+            "Location": "Thusis",
+            "Latitude": 46.696232,
+            "Longitude": 9.449582
+        },
+        {
+            "ID": "ZS G*62",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 42.266,
+            "Location": "Thusis",
+            "Latitude": 46.696232,
+            "Longitude": 9.449582
+        },
+        {
+            "ID": "PO",
+            "Element Type": "Position offset",
+            "Additional Information": "-1m (track 63)",
+            "Relative Position": 42.501,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "PO",
+            "Element Type": "Position offset",
+            "Additional Information": "-2m (track62)",
+            "Relative Position": 42.502,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "G63",
+            "Element Type": "Distant signal",
+            "Relative Position": 42.761,
+            "Location": "Thusis",
+            "Latitude": 46.698504,
+            "Longitude": 9.454897
+        },
+        {
+            "ID": "G62",
+            "Element Type": "Distant signal",
+            "Relative Position": 42.761,
+            "Location": "Thusis",
+            "Latitude": 46.698504,
+            "Longitude": 9.454897
+        },
+        {
+            "ID": "ZS G62",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 42.761,
+            "Location": "Thusis",
+            "Latitude": 46.698504,
+            "Longitude": 9.454897
+        },
+        {
+            "ID": "ZS G63",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 42.761,
+            "Location": "Thusis",
+            "Latitude": 46.698504,
+            "Longitude": 9.454897
+        },
+        {
+            "ID": "PO",
+            "Element Type": "Position offset",
+            "Additional Information": "+2m (track 73)",
+            "Relative Position": 42.998,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "PO",
+            "Element Type": "Position offset",
+            "Additional Information": "+1m (track 72)",
+            "Relative Position": 42.999,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08595",
+            "Element Type": "Eurobalise",
+            "Relative Position": 43.264,
+            "Location": "Thusis",
+            "Latitude": 46.701221,
+            "Longitude": 9.460535
+        },
+        {
+            "ID": "BG 08596",
+            "Element Type": "Eurobalise",
+            "Relative Position": 43.264,
+            "Location": "Thusis",
+            "Latitude": 46.701221,
+            "Longitude": 9.460535
+        },
+        {
+            "ID": "H73",
+            "Element Type": "Main signal",
+            "Relative Position": 43.268,
+            "Location": "Thusis",
+            "Latitude": 46.701221,
+            "Longitude": 9.460535
+        },
+        {
+            "ID": "H72",
+            "Element Type": "Main signal",
+            "Relative Position": 43.268,
+            "Location": "Thusis",
+            "Latitude": 46.701221,
+            "Longitude": 9.460535
+        },
+        {
+            "ID": "ZS H72",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 43.268,
+            "Location": "Thusis",
+            "Latitude": 46.701221,
+            "Longitude": 9.460535
+        },
+        {
+            "ID": "ZS H73",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 43.268,
+            "Location": "Thusis",
+            "Latitude": 46.701221,
+            "Longitude": 9.460535
+        },
+        {
+            "ID": "PO",
+            "Element Type": "Position offset",
+            "Additional Information": "-4m (track 82)",
+            "Relative Position": 43.700,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "I / HI",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 43.769,
+            "Location": "Thusis",
+            "Latitude": 46.702146,
+            "Longitude": 9.466974
+        },
+        {
+            "ID": "BG 08597",
+            "Element Type": "Eurobalise",
+            "Relative Position": 43.776,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 08598",
+            "Element Type": "Eurobalise",
+            "Relative Position": 44.288,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "BG 09986",
+            "Element Type": "Eurobalise",
+            "Relative Position": 44.338,
+            "Location": "Thusis"
+        },
+        {
+            "ID": "ZS I",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 43.769,
+            "Location": "Thusis",
+            "Latitude": 46.702146,
+            "Longitude": 9.466974
+        },
+        {
+            "ID": "I*",
+            "Element Type": "Distant signal",
+            "Relative Position": 44.283,
+            "Location": "Thusis",
+            "Latitude": 46.700173,
+            "Longitude": 9.47113
+        },
+        {
+            "ID": "J*",
+            "Element Type": "Main signal",
+            "Relative Position": 44.812,
+            "Location": "Solis",
+            "Latitude": 46.696569,
+            "Longitude": 9.474213
+        },
+        {
+            "ID": "ZS J*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 44.812,
+            "Location": "Solis",
+            "Latitude": 46.696569,
+            "Longitude": 9.474213
+        },
+        {
+            "ID": "J1",
+            "Element Type": "Dwarf signal",
+            "Relative Position": 45.270,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZP Gjk.01",
+            "Element Type": "Axle counter",
+            "Relative Position": 45.270,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZS J ",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 45.270,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "K1",
+            "Element Type": "Distant signal",
+            "Relative Position": 45.451,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZP 1545.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 45.451,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZS K",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 45.451,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZS K*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 45.954,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "K*",
+            "Element Type": "Dwarf signal",
+            "Relative Position": 45.954,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "L*",
+            "Element Type": "Main signal",
+            "Relative Position": 46.739,
+            "Location": "Solis",
+            "Latitude": 46.691736,
+            "Longitude": 9.496387
+        },
+        {
+            "ID": "ZS L*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 46.739,
+            "Location": "Solis",
+            "Latitude": 46.691736,
+            "Longitude": 9.496387
+        },
+        {
+            "ID": "L1",
+            "Element Type": "Distant signal",
+            "Relative Position": 47.129,
+            "Location": "Solis",
+            "Latitude": 46.689477,
+            "Longitude": 9.499883
+        },
+        {
+            "ID": "ZS L",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 47.129,
+            "Location": "Solis",
+            "Latitude": 46.689477,
+            "Longitude": 9.499883
+        },
+        {
+            "ID": "ZP Glm.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 47.129,
+            "Location": "Solis",
+            "Latitude": 46.689477,
+            "Longitude": 9.499883
+        },
+        {
+            "ID": "ZS M",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 47.391,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "M1",
+            "Element Type": "Dwarf signal",
+            "Relative Position": 47.391,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZP 1547.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 47.391,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "M*",
+            "Element Type": "Main signal",
+            "Relative Position": 47.774,
+            "Location": "Solis",
+            "Latitude": 46.686441,
+            "Longitude": 9.506724
+        },
+        {
+            "ID": "ZS M*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 47.774,
+            "Location": "Solis",
+            "Latitude": 46.686441,
+            "Longitude": 9.506724
+        },
+        {
+            "ID": "SK a*",
+            "Element Type": "Axle counter",
+            "Relative Position": 48.058,
+            "Location": "Solis",
+            "Latitude": 46.6864088,
+            "Longitude": 9.5100774
+        },
+        {
+            "ID": "A*",
+            "Element Type": "Dwarf signal",
+            "Relative Position": 48.560,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZS A*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 48.560,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "SK 48.9",
+            "Element Type": "Axle counter",
+            "Relative Position": 48.980,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "C*",
+            "Element Type": "Dwarf signal",
+            "Relative Position": 49.040,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "A",
+            "Element Type": "Dwarf signal",
+            "Relative Position": 49.040,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZS A ",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 49.040,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZP 1547.2",
+            "Element Type": "Axle counter",
+            "Relative Position": 49.040,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "B1",
+            "Element Type": "Distant signal",
+            "Relative Position": 49.256,
+            "Location": "Solis",
+            "Latitude": 46.6814578,
+            "Longitude": 9.5239927
+        },
+        {
+            "ID": "B2",
+            "Element Type": "Distant signal",
+            "Relative Position": 49.256,
+            "Location": "Solis",
+            "Latitude": 46.6814578,
+            "Longitude": 9.5239927
+        },
+        {
+            "ID": "ZS B1",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 49.256,
+            "Location": "Solis",
+            "Latitude": 46.693077,
+            "Longitude": 9.414058
+        },
+        {
+            "ID": "ZS B2",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 49.256,
+            "Location": "Solis",
+            "Latitude": 46.693077,
+            "Longitude": 9.414058
+        },
+        {
+            "ID": "B**2",
+            "Element Type": "Main signal",
+            "Relative Position": 49.300,
+            "Location": "Solis"
+        },
+        {
+            "ID": "C**1",
+            "Element Type": "Distant signal",
+            "Relative Position": 49.460,
+            "Location": "Solis",
+            "Latitude": 46.6801543,
+            "Longitude": 9.5272617
+        },
+        {
+            "ID": "C**2",
+            "Element Type": "Distant signal",
+            "Relative Position": 49.460,
+            "Location": "Solis",
+            "Latitude": 46.6801543,
+            "Longitude": 9.5272617
+        },
+        {
+            "ID": "ZS C1",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 49.538,
+            "Location": "Solis",
+            "Latitude": 46.6801543,
+            "Longitude": 9.5272617
+        },
+        {
+            "ID": "ZS C2",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 49.538,
+            "Location": "Solis",
+            "Latitude": 46.6801543,
+            "Longitude": 9.5272617
+        },
+        {
+            "ID": "C1",
+            "Element Type": "Main signal",
+            "Relative Position": 49.538,
+            "Location": "Solis",
+            "Latitude": 46.6801543,
+            "Longitude": 9.5272617
+        },
+        {
+            "ID": "C2",
+            "Element Type": "Main signal",
+            "Relative Position": 49.538,
+            "Location": "Solis",
+            "Latitude": 46.6801543,
+            "Longitude": 9.5272617
+        },
+        {
+            "ID": "D/B*",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 50.060,
+            "Location": "Solis",
+            "Latitude": 46.6795205,
+            "Longitude": 9.5330962
+        },
+        {
+            "ID": "ZP 1548.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 50.060,
+            "Location": "Solis",
+            "Latitude": 46.6795205,
+            "Longitude": 9.5330962
+        },
+        {
+            "ID": "ZS D",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 50.060,
+            "Location": "Solis",
+            "Latitude": 46.6795205,
+            "Longitude": 9.5330962
+        },
+        {
+            "ID": "SK 50.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 50.120,
+            "Location": "Solis"
+        },
+        {
+            "ID": "N*",
+            "Element Type": "Main signal",
+            "Relative Position": 50.380,
+            "Location": "Solis",
+            "Latitude": 46.678893,
+            "Longitude": 9.535636
+        },
+        {
+            "ID": "ZS N*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 50.380,
+            "Location": "Solis",
+            "Latitude": 46.678893,
+            "Longitude": 9.535636
+        },
+        {
+            "ID": "BG XY001",
+            "Element Type": "Eurobalise",
+            "Relative Position": 50.380,
+            "Location": "Solis",
+            "Latitude": 46.678893,
+            "Longitude": 9.535636,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "D*",
+            "Element Type": "Main signal",
+            "Relative Position": 50.500,
+            "Location": "Solis",
+            "Latitude": 46.6784776,
+            "Longitude": 9.5386721
+        },
+        {
+            "ID": "ZS D*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 50.502,
+            "Location": "Solis",
+            "Latitude": 46.6784776,
+            "Longitude": 9.5386721
+        },
+        {
+            "ID": "BG XY002",
+            "Element Type": "Eurobalise",
+            "Relative Position": 50.500,
+            "Location": "Solis",
+            "Latitude": 46.6784776,
+            "Longitude": 9.5386721,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "ZP Gno.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 50.827,
+            "Location": "Solis",
+            "Latitude": 46.677326,
+            "Longitude": 9.542402
+        },
+        {
+            "ID": "ZS N",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 50.827,
+            "Location": "Solis",
+            "Latitude": 46.677326,
+            "Longitude": 9.542402
+        },
+        {
+            "ID": "BG XY003",
+            "Element Type": "Eurobalise",
+            "Relative Position": 50.827,
+            "Location": "Solis",
+            "Latitude": 46.677326,
+            "Longitude": 9.542402,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "N1",
+            "Element Type": "Distant signal",
+            "Relative Position": 50.827,
+            "Location": "Solis",
+            "Latitude": 46.677326,
+            "Longitude": 9.542402
+        },
+        {
+            "ID": "O1",
+            "Element Type": "Dwarf signal",
+            "Relative Position": 51.285,
+            "Location": "Solis"
+        },
+        {
+            "ID": "ZS O",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 51.285,
+            "Location": "Solis"
+        },
+        {
+            "ID": "ZP 1549.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 51.285,
+            "Location": "Solis"
+        },
+        {
+            "ID": "O*",
+            "Element Type": "Main signal",
+            "Relative Position": 51.770,
+            "Location": "Solis"
+        },
+        {
+            "ID": "ZS O*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 51.771,
+            "Location": "Solis"
+        },
+        {
+            "ID": "ZS P*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 51.849,
+            "Location": "Solis",
+            "Latitude": 46.664778,
+            "Longitude": 9.550762
+        },
+        {
+            "ID": "P*",
+            "Element Type": "Main signal",
+            "Relative Position": 51.849,
+            "Location": "Solis",
+            "Latitude": 46.664778,
+            "Longitude": 9.550762
+        },
+        {
+            "ID": "P ",
+            "Element Type": "Distant signal",
+            "Relative Position": 52.316,
+            "Location": "Solis"
+        },
+        {
+            "ID": "ZS P",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 52.316,
+            "Location": "Solis"
+        },
+        {
+            "ID": "BG XY004",
+            "Element Type": "Eurobalise",
+            "Relative Position": 52.316,
+            "Location": "Solis",
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "ZP Gpq.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 52.316,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "Q",
+            "Element Type": "Dwarf signal",
+            "Relative Position": 52.503,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZS Q",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 52.503,
+            "Location": "Solis",
+            "Notes": "No Geolocation because element is in tunnel"
+        },
+        {
+            "ID": "ZP 1551.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 52.503,
+            "Location": "Solis"
+        },
+        {
+            "ID": "ZS A*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 52.898,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6661991,
+            "Longitude": 9.5626448
+        },
+        {
+            "ID": "A*",
+            "Element Type": "Main signal",
+            "Relative Position": 52.898,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6661991,
+            "Longitude": 9.5626449
+        },
+        {
+            "ID": "Q*",
+            "Element Type": "Main signal",
+            "Relative Position": 53.011,
+            "Location": "Solis",
+            "Latitude": 46.666665,
+            "Longitude": 9.563753
+        },
+        {
+            "ID": "ZS Q*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 53.011,
+            "Location": "Solis",
+            "Latitude": 46.666665,
+            "Longitude": 9.563753
+        },
+        {
+            "ID": "BG XY005",
+            "Element Type": "Eurobalise",
+            "Relative Position": 53.011,
+            "Location": "Solis",
+            "Latitude": 46.666665,
+            "Longitude": 9.563753,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "ZS A",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 53.415,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6675787,
+            "Longitude": 9.5683386
+        },
+        {
+            "ID": "A/C*",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 53.415,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6675787,
+            "Longitude": 9.5683386
+        },
+        {
+            "ID": "ZP 1551.2",
+            "Element Type": "Axle counter",
+            "Relative Position": 53.415,
+            "Location": "Tiefencastel"
+        },
+        {
+            "ID": "B2",
+            "Element Type": "Distant signal",
+            "Relative Position": 53.753,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6653069,
+            "Longitude": 9.5709014
+        },
+        {
+            "ID": "B1",
+            "Element Type": "Distant signal",
+            "Relative Position": 53.753,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6653069,
+            "Longitude": 9.5709014
+        },
+        {
+            "ID": "ZS B2",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 53.753,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6653069,
+            "Longitude": 9.5709014
+        },
+        {
+            "ID": "ZS B1",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 53.753,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6653069,
+            "Longitude": 9.5709014
+        },
+        {
+            "ID": "B**2",
+            "Element Type": "Main signal",
+            "Relative Position": 53.812,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6649148,
+            "Longitude": 9.5711774
+        },
+        {
+            "ID": "B**1",
+            "Element Type": "Main signal",
+            "Relative Position": 53.812,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6649148,
+            "Longitude": 9.5711774
+        },
+        {
+            "ID": "ZS C2",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 54.096,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6634654,
+            "Longitude": 9.5741563
+        },
+        {
+            "ID": "ZS C1",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 54.096,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6634654,
+            "Longitude": 9.5741563
+        },
+        {
+            "ID": "C1",
+            "Element Type": "Distant signal",
+            "Relative Position": 54.096,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6634654,
+            "Longitude": 9.5741563
+        },
+        {
+            "ID": "C2",
+            "Element Type": "Distant signal",
+            "Relative Position": 54.096,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6634654,
+            "Longitude": 9.5741563
+        },
+        {
+            "ID": "B*/D",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 54.378,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6632537,
+            "Longitude": 9.5776347
+        },
+        {
+            "ID": "ZP 1554.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 54.378,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6632537,
+            "Longitude": 9.5776347
+        },
+        {
+            "ID": "ZS D",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 54.378,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6632537,
+            "Longitude": 9.5776347
+        },
+        {
+            "ID": "D*",
+            "Element Type": "Main signal",
+            "Relative Position": 54.804,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6630288,
+            "Longitude": 9.5822763
+        },
+        {
+            "ID": "ZS D*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 54.804,
+            "Location": "Tiefencastel",
+            "Latitude": 46.6630288,
+            "Longitude": 9.5822763
+        },
+        {
+            "ID": "R*",
+            "Element Type": "Main signal",
+            "Relative Position": 55.500,
+            "Location": "Surava",
+            "Latitude": 46.6609099,
+            "Longitude": 9.5906124
+        },
+        {
+            "ID": "ZS R*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 55.500,
+            "Location": "Surava",
+            "Latitude": 46.6609099,
+            "Longitude": 9.5906124
+        },
+        {
+            "ID": "R",
+            "Element Type": "Main signal",
+            "Relative Position": 55.938,
+            "Location": "Surava",
+            "Latitude": 46.6610865,
+            "Longitude": 9.5963339
+        },
+        {
+            "ID": "ZP Grs.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 55.938,
+            "Location": "Surava",
+            "Latitude": 46.6610865,
+            "Longitude": 9.5963339
+        },
+        {
+            "ID": "ZS R ",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 55.938,
+            "Location": "Surava",
+            "Latitude": 46.6610865,
+            "Longitude": 9.5963339
+        },
+        {
+            "ID": "S1",
+            "Element Type": "Distant signal",
+            "Relative Position": 56.090,
+            "Location": "Surava",
+            "Latitude": 46.661012,
+            "Longitude": 9.597988
+        },
+        {
+            "ID": "ZS S",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 56.090,
+            "Location": "Surava",
+            "Latitude": 46.661012,
+            "Longitude": 9.597988
+        },
+        {
+            "ID": "ZP 1555.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 56.090,
+            "Location": "Surava",
+            "Latitude": 46.661012,
+            "Longitude": 9.597988
+        },
+        {
+            "ID": "S*",
+            "Element Type": "Main signal",
+            "Relative Position": 56.541,
+            "Location": "Surava",
+            "Latitude": 46.662893,
+            "Longitude": 9.603272
+        },
+        {
+            "ID": "BG XY006",
+            "Element Type": "Eurobalise",
+            "Relative Position": 56.541,
+            "Location": "Surava",
+            "Latitude": 46.662893,
+            "Longitude": 9.603272,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "ZS S*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 56.541,
+            "Location": "Surava",
+            "Latitude": 46.662893,
+            "Longitude": 9.603272
+        },
+        {
+            "ID": "SK a*",
+            "Element Type": "Axle counter",
+            "Relative Position": 56.750,
+            "Location": "Surava"
+        },
+        {
+            "ID": "ZS A*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 57.327,
+            "Location": "Surava",
+            "Latitude": 46.666113,
+            "Longitude": 9.6104058
+        },
+        {
+            "ID": "BG XY007",
+            "Element Type": "Eurobalise",
+            "Relative Position": 57.327,
+            "Location": "Surava",
+            "Latitude": 46.666113,
+            "Longitude": 9.6104058,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "A*",
+            "Element Type": "Main signal",
+            "Relative Position": 57.327,
+            "Location": "Surava",
+            "Latitude": 46.666113,
+            "Longitude": 9.6104058
+        },
+        {
+            "ID": "SK 57.7",
+            "Element Type": "Axle counter",
+            "Relative Position": 57.690,
+            "Location": "Surava"
+        },
+        {
+            "ID": "ZS A",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 57.750,
+            "Location": "Surava",
+            "Latitude": 46.6671159,
+            "Longitude": 9.6156308
+        },
+        {
+            "ID": "C*/A",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 57.750,
+            "Location": "Surava",
+            "Latitude": 46.6671159,
+            "Longitude": 9.6156308
+        },
+        {
+            "ID": "ZP G12a.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 57.750,
+            "Location": "Surava",
+            "Latitude": 46.6671159,
+            "Longitude": 9.6156308
+        },
+        {
+            "ID": "ZP G12b.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 57.780,
+            "Location": "Surava"
+        },
+        {
+            "ID": "SK a* ",
+            "Element Type": "Axle counter",
+            "Relative Position": 59.234,
+            "Location": "Alvaneu"
+        },
+        {
+            "ID": "A*",
+            "Element Type": "Distant signal",
+            "Relative Position": 59.957,
+            "Location": "Alvaneu",
+            "Latitude": 46.669312,
+            "Longitude": 9.641807
+        },
+        {
+            "ID": "ZSA* ",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 59.957,
+            "Location": "Alvaneu",
+            "Latitude": 46.669312,
+            "Longitude": 9.641807
+        },
+        {
+            "ID": "BG XY008",
+            "Element Type": "Eurobalise",
+            "Relative Position": 59.957,
+            "Location": "Alvaneu",
+            "Latitude": 46.669312,
+            "Longitude": 9.641807,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "SK 60.3",
+            "Element Type": "Axle counter",
+            "Relative Position": 60362,
+            "Location": "Alvaneu",
+            "Latitude": 46.6704183,
+            "Longitude": 9.6482317
+        },
+        {
+            "ID": "C*/A",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 60.422,
+            "Location": "Alvaneu",
+            "Latitude": 46.6704183,
+            "Longitude": 9.6482317
+        },
+        {
+            "ID": "ZP G12a1",
+            "Element Type": "Axle counter",
+            "Relative Position": 60.422,
+            "Location": "Alvaneu",
+            "Latitude": 46.6704183,
+            "Longitude": 9.6482317
+        },
+        {
+            "ID": "ZS A ",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 60.422,
+            "Location": "Alvaneu",
+            "Latitude": 46.6704183,
+            "Longitude": 9.6482317
+        },
+        {
+            "ID": "ZP G12b1",
+            "Element Type": "Axle counter",
+            "Relative Position": 60.452,
+            "Location": "Alvaneu"
+        },
+        {
+            "ID": "A1",
+            "Element Type": "Railway crossing",
+            "Additional Information": "track 1",
+            "Relative Position": 60.683,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711948,
+            "Longitude": 9.6499995
+        },
+        {
+            "ID": "A4",
+            "Element Type": "Railway crossing",
+            "Additional Information": "track 2",
+            "Relative Position": 60.683,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711948,
+            "Longitude": 9.6499995
+        },
+        {
+            "ID": "A5",
+            "Element Type": "Railway crossing",
+            "Additional Information": "track 3",
+            "Relative Position": 60.683,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711948,
+            "Longitude": 9.6499995
+        },
+        {
+            "ID": "B1",
+            "Element Type": "Main signal",
+            "Additional Information": "track 1",
+            "Relative Position": 60.737,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711862,
+            "Longitude": 9.6508123
+        },
+        {
+            "ID": "B2",
+            "Element Type": "Main signal",
+            "Additional Information": "track 2",
+            "Relative Position": 60.737,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711862,
+            "Longitude": 9.6508123
+        },
+        {
+            "ID": "ZS B2",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 60.737,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711862,
+            "Longitude": 9.6508123
+        },
+        {
+            "ID": "ZS B1",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 60.737,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711862,
+            "Longitude": 9.6508123
+        },
+        {
+            "ID": "ZP 1w2",
+            "Element Type": "Axle counter",
+            "Additional Information": "track 1",
+            "Relative Position": 60.737,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711862,
+            "Longitude": 9.6508123
+        },
+        {
+            "ID": "ZP 1w3",
+            "Element Type": "Axle counter",
+            "Additional Information": "track 2",
+            "Relative Position": 60.737,
+            "Location": "Alvaneu",
+            "Latitude": 46.6711862,
+            "Longitude": 9.6508123
+        },
+        {
+            "ID": "C**2",
+            "Element Type": "Distant signal",
+            "Relative Position": 60.900,
+            "Location": "Alvaneu",
+            "Latitude": 46.6712489,
+            "Longitude": 9.652923
+        },
+        {
+            "ID": "C**1",
+            "Element Type": "Distant signal",
+            "Relative Position": 60.900,
+            "Location": "Alvaneu",
+            "Latitude": 46.6712489,
+            "Longitude": 9.652923
+        },
+        {
+            "ID": "C1",
+            "Element Type": "Main signal",
+            "Additional Information": "track 1",
+            "Relative Position": 61.018,
+            "Location": "Alvaneu",
+            "Latitude": 46.6716707,
+            "Longitude": 9.6542585
+        },
+        {
+            "ID": "C2",
+            "Element Type": "Main signal",
+            "Additional Information": "track 2",
+            "Relative Position": 61.018,
+            "Location": "Alvaneu",
+            "Latitude": 46.6716707,
+            "Longitude": 9.6542585
+        },
+        {
+            "ID": "ZS C2",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 61.018,
+            "Location": "Alvaneu",
+            "Latitude": 46.6716707,
+            "Longitude": 9.6542585
+        },
+        {
+            "ID": "ZS C1",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 61.018,
+            "Location": "Alvaneu",
+            "Latitude": 46.6716707,
+            "Longitude": 9.6542585
+        },
+        {
+            "ID": "BG XY009",
+            "Element Type": "Eurobalise",
+            "Relative Position": 61.018,
+            "Location": "Alvaneu",
+            "Latitude": 46.6716707,
+            "Longitude": 9.6542585,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "BG XY010",
+            "Element Type": "Eurobalise",
+            "Relative Position": 61.018,
+            "Location": "Alvaneu",
+            "Latitude": 46.6716707,
+            "Longitude": 9.6542585,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "B*/D",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 61.325,
+            "Location": "Alvaneu",
+            "Latitude": 46.674123,
+            "Longitude": 9.6576678
+        },
+        {
+            "ID": "ZP 1558.01",
+            "Element Type": "Axle counter",
+            "Relative Position": 61.325,
+            "Location": "Alvaneu",
+            "Latitude": 46.674123,
+            "Longitude": 9.6576678
+        },
+        {
+            "ID": "ZS D",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 61.325,
+            "Location": "Alvaneu",
+            "Latitude": 46.674123,
+            "Longitude": 9.6576678
+        },
+        {
+            "ID": "SK 61.3",
+            "Element Type": "Axle counter",
+            "Relative Position": 61.390,
+            "Location": "Alvaneu"
+        },
+        {
+            "ID": "T*",
+            "Element Type": "Distant signal",
+            "Relative Position": 61.630,
+            "Location": "Alvaneu"
+        },
+        {
+            "ID": "ZS T*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 61.630,
+            "Location": "Alvaneu"
+        },
+        {
+            "ID": "D*",
+            "Element Type": "Main signal",
+            "Relative Position": 61.688,
+            "Location": "Alvaneu",
+            "Latitude": 46.676386,
+            "Longitude": 9.660213
+        },
+        {
+            "ID": "ZS D",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 61.688,
+            "Location": "Alvaneu",
+            "Latitude": 46.676386,
+            "Longitude": 9.660213
+        },
+        {
+            "ID": "BG XY011",
+            "Element Type": "Eurobalise",
+            "Relative Position": 61.688,
+            "Location": "Alvaneu",
+            "Latitude": 46.676386,
+            "Longitude": 9.660213,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "T1",
+            "Element Type": "Distant signal",
+            "Relative Position": 62.010,
+            "Location": "Alvaneu",
+            "Latitude": 46.681317,
+            "Longitude": 9.664517
+        },
+        {
+            "ID": "ZP tu1",
+            "Element Type": "Axle counter",
+            "Relative Position": 62.010,
+            "Location": "Alvaneu",
+            "Latitude": 46.681317,
+            "Longitude": 9.664517
+        },
+        {
+            "ID": "ZS T",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 62.010,
+            "Location": "Alvaneu",
+            "Latitude": 46.681317,
+            "Longitude": 9.664517
+        },
+        {
+            "ID": "U1",
+            "Element Type": "Distant signal",
+            "Relative Position": 62.040,
+            "Location": "Alvaneu",
+            "Latitude": 46.679318,
+            "Longitude": 9.664479
+        },
+        {
+            "ID": "ZS U",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 62.040,
+            "Location": "Alvaneu",
+            "Latitude": 46.679318,
+            "Longitude": 9.664479
+        },
+        {
+            "ID": "ZP 1560.01",
+            "Element Type": "Axle counter",
+            "Relative Position": 62.040,
+            "Location": "Alvaneu",
+            "Latitude": 46.679318,
+            "Longitude": 9.664479
+        },
+        {
+            "ID": "U*",
+            "Element Type": "Main signal",
+            "Relative Position": 62.510,
+            "Location": "Alvaneu",
+            "Latitude": 46.679117,
+            "Longitude": 9.669595
+        },
+        {
+            "ID": "ZS U*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 62.510,
+            "Location": "Alvaneu",
+            "Latitude": 46.679117,
+            "Longitude": 9.669595
+        },
+        {
+            "ID": "BG XY012",
+            "Element Type": "Eurobalise",
+            "Relative Position": 62.510,
+            "Location": "Alvaneu",
+            "Latitude": 46.679117,
+            "Longitude": 9.669595,
+            "Notes": "Element not inventoried in PDF plans"
+        },
+        {
+            "ID": "SK A*  ",
+            "Element Type": "Axle counter",
+            "Relative Position": 62.740,
+            "Location": "Filisur"
+        },
+        {
+            "ID": "A*",
+            "Element Type": "Main signal",
+            "Relative Position": 62.940,
+            "Location": "Filisur",
+            "Latitude": 46.6808172,
+            "Longitude": 9.6744137
+        },
+        {
+            "ID": "ZS A* ",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 62.940,
+            "Location": "Filisur",
+            "Latitude": 46.6808172,
+            "Longitude": 9.6744137
+        },
+        {
+            "ID": "SK 63.3",
+            "Element Type": "Axle counter",
+            "Relative Position": 63.300,
+            "Location": "Filisur"
+        },
+        {
+            "ID": "ZS A",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 63.357,
+            "Location": "Filisur",
+            "Latitude": 46.6787719,
+            "Longitude": 9.6757913
+        },
+        {
+            "ID": "ZP G11a.1  ",
+            "Element Type": "Axle counter",
+            "Relative Position": 63.357,
+            "Location": "Filisur",
+            "Latitude": 46.6787719,
+            "Longitude": 9.6757913
+        },
+        {
+            "ID": "C*/A",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 63.357,
+            "Location": "Filisur",
+            "Latitude": 46.6787719,
+            "Longitude": 9.6757913
+        },
+        {
+            "ID": "B22",
+            "Element Type": "Distant signal",
+            "Additional Information": "track 1",
+            "Relative Position": 63.593,
+            "Location": "Filisur",
+            "Latitude": 46.6766745,
+            "Longitude": 9.6761985
+        },
+        {
+            "ID": "B21",
+            "Element Type": "Distant signal",
+            "Additional Information": "track 2",
+            "Relative Position": 63.593,
+            "Location": "Filisur",
+            "Latitude": 46.6766745,
+            "Longitude": 9.6761985
+        },
+        {
+            "ID": "ZS B22",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 63.593,
+            "Location": "Filisur",
+            "Latitude": 46.6766745,
+            "Longitude": 9.6761985
+        },
+        {
+            "ID": "ZS B21",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 63.593,
+            "Location": "Filisur",
+            "Latitude": 46.6766745,
+            "Longitude": 9.6761985
+        },
+        {
+            "ID": "SK 22a",
+            "Element Type": "Axle counter",
+            "Additional Information": "track 1",
+            "Relative Position": 63.593,
+            "Location": "Filisur",
+            "Latitude": 46.6766745,
+            "Longitude": 9.6761985
+        },
+        {
+            "ID": "SK 21a",
+            "Element Type": "Axle counter",
+            "Additional Information": "track 2",
+            "Relative Position": 63.593,
+            "Location": "Filisur",
+            "Latitude": 46.6766745,
+            "Longitude": 9.6761985
+        },
+        {
+            "ID": "SK1 63.8",
+            "Element Type": "Axle counter",
+            "Additional Information": "track 1",
+            "Relative Position": 63.822,
+            "Location": "Filisur"
+        },
+        {
+            "ID": "SK2 63.8",
+            "Element Type": "Axle counter",
+            "Additional Information": "track 2",
+            "Relative Position": 63.822,
+            "Location": "Filisur"
+        },
+        {
+            "ID": "ZS C22",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 63.862,
+            "Location": "Filisur",
+            "Latitude": 46.6766745,
+            "Longitude": 9.6761985
+        },
+        {
+            "ID": "ZS C21",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 63.862,
+            "Location": "Filisur",
+            "Latitude": 46.6766745,
+            "Longitude": 9.6761985
+        },
+        {
+            "ID": "F*/C 22",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 63.862,
+            "Location": "Filisur",
+            "Latitude": 46.6744682,
+            "Longitude": 9.6767325
+        },
+        {
+            "ID": "F*/C 21",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 63.862,
+            "Location": "Filisur",
+            "Latitude": 46.6744682,
+            "Longitude": 9.6767325
+        },
+        {
+            "ID": "ZP G22a.2",
+            "Element Type": "Axle counter",
+            "Relative Position": 63.862,
+            "Location": "Filisur",
+            "Latitude": 46.6744682,
+            "Longitude": 9.6767325
+        },
+        {
+            "ID": "ZP G21a.2",
+            "Element Type": "Axle counter",
+            "Relative Position": 63.862,
+            "Location": "Filisur",
+            "Latitude": 46.6744682,
+            "Longitude": 9.6767325
+        },
+        {
+            "ID": "B 21*",
+            "Element Type": "Main signal",
+            "Relative Position": 63.960,
+            "Location": "Filisur",
+            "Latitude": 46.6740837,
+            "Longitude": 9.6778085
+        },
+        {
+            "ID": "ZS B21*",
+            "Element Type": "Axle counter",
+            "Relative Position": 63.960,
+            "Location": "Filisur",
+            "Latitude": 46.6740837,
+            "Longitude": 9.6778085
+        },
+        {
+            "ID": "B 22*",
+            "Element Type": "Main signal",
+            "Relative Position": 63.970,
+            "Location": "Filisur",
+            "Latitude": 46.674081,
+            "Longitude": 9.6779687
+        },
+        {
+            "ID": "ZS B22*",
+            "Element Type": "Axle counter",
+            "Relative Position": 63.970,
+            "Location": "Filisur",
+            "Latitude": 46.674081,
+            "Longitude": 9.6779687
+        },
+        {
+            "ID": "D1",
+            "Element Type": "Distant signal",
+            "Relative Position": 64.133,
+            "Location": "Filisur",
+            "Latitude": 46.6748434,
+            "Longitude": 9.6796579
+        },
+        {
+            "ID": "D2",
+            "Element Type": "Distant signal",
+            "Relative Position": 64.133,
+            "Location": "Filisur",
+            "Latitude": 46.6748434,
+            "Longitude": 9.6796579
+        },
+        {
+            "ID": "ZS D1",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 64.133,
+            "Location": "Filisur",
+            "Latitude": 46.6748434,
+            "Longitude": 9.6796579
+        },
+        {
+            "ID": "ZS D2",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 64.133,
+            "Location": "Filisur",
+            "Latitude": 46.6748434,
+            "Longitude": 9.6796579
+        },
+        {
+            "ID": "ZS D13",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 64.198,
+            "Location": "Filisur",
+            "Latitude": 46.675221,
+            "Longitude": 9.680406
+        },
+        {
+            "ID": "ZS D43",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 64.198,
+            "Location": "Filisur",
+            "Latitude": 46.675221,
+            "Longitude": 9.680406
+        },
+        {
+            "ID": "FM D2",
+            "Element Type": "Main signal",
+            "Relative Position": 64.198,
+            "Location": "Filisur",
+            "Latitude": 46.675221,
+            "Longitude": 9.680406
+        },
+        {
+            "ID": "FM D1",
+            "Element Type": "Main signal",
+            "Relative Position": 64.198,
+            "Location": "Filisur",
+            "Latitude": 46.675221,
+            "Longitude": 9.680406
+        },
+        {
+            "ID": "D3",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 64.235,
+            "Location": "Filisur"
+        },
+        {
+            "ID": "ZS F34",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 64.460,
+            "Location": "Filisur",
+            "Latitude": 46.6755115,
+            "Longitude": 9.6841817
+        },
+        {
+            "ID": "ZS F2",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 64.460,
+            "Location": "Filisur",
+            "Latitude": 46.6755115,
+            "Longitude": 9.6841817
+        },
+        {
+            "ID": "F2",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 64.460,
+            "Location": "Filisur",
+            "Latitude": 46.6755115,
+            "Longitude": 9.6841817
+        },
+        {
+            "ID": "F1",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 64.486,
+            "Location": "Filisur",
+            "Latitude": 46.6754621,
+            "Longitude": 9.683717
+        },
+        {
+            "ID": "ZS F1",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 64.486,
+            "Location": "Filisur",
+            "Latitude": 46.6754621,
+            "Longitude": 9.683717
+        },
+        {
+            "ID": "ZP G62b.1",
+            "Element Type": "Axle counter",
+            "Relative Position": 64.923,
+            "Location": "Filisur"
+        },
+        {
+            "ID": "G/D*",
+            "Element Type": "Main & distant signal",
+            "Relative Position": 64.990,
+            "Location": "Filisur",
+            "Latitude": 46.6751193,
+            "Longitude": 9.6903297
+        },
+        {
+            "ID": "ZS G",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 64.990,
+            "Location": "Filisur",
+            "Latitude": 46.6751193,
+            "Longitude": 9.6903297
+        },
+        {
+            "ID": "ZP G62b.2",
+            "Element Type": "Axle counter",
+            "Relative Position": 64.990,
+            "Location": "Filisur",
+            "Latitude": 46.6751193,
+            "Longitude": 9.6903297
+        },
+        {
+            "ID": "SK 65.0",
+            "Element Type": "Axle counter",
+            "Relative Position": 65.050,
+            "Location": "Filisur"
+        },
+        {
+            "ID": "G*",
+            "Element Type": "Main signal",
+            "Relative Position": 65.365,
+            "Location": "Filisur",
+            "Latitude": 46.672403,
+            "Longitude": 9.6928615
+        },
+        {
+            "ID": "ZS G*",
+            "Element Type": "Train protection magnets",
+            "Relative Position": 65.365,
+            "Location": "Filisur",
+            "Latitude": 46.672403,
+            "Longitude": 9.6928615
+        }
+    ]
+}

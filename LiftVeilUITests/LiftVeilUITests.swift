@@ -2,13 +2,13 @@
 //  LiftVeilUITests.swift
 //  LiftVeilUITests
 //
-//  Created by Vikram Kriplaney on 19.09.2020.
+//  Created by Vikram Kriplaney <vikram@iphonso.ch> on 19.09.2020.
+//  Copyright © 2020 iPhonso GmbH. All rights reserved.
 //
 
 import XCTest
 
 class LiftVeilUITests: XCTestCase {
-
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
 
