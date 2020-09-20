@@ -11,13 +11,13 @@
 		AC559A2125165A1500496AFF /* TrackSiteData_2020_clean.json in Resources */ = {isa = PBXBuildFile; fileRef = AC559A2025165A1500496AFF /* TrackSiteData_2020_clean.json */; };
 		AC559A262516611300496AFF /* TrackData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC559A252516611300496AFF /* TrackData.swift */; };
 		AC559A312516D0FC00496AFF /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC559A302516D0FC00496AFF /* Launch Screen.storyboard */; };
+		AC559A48251754C500496AFF /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC559A47251754C500496AFF /* LocationModel.swift */; };
 		AC613B3F251571E500329EE7 /* LiftVeilApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B3E251571E500329EE7 /* LiftVeilApp.swift */; };
 		AC613B41251571E500329EE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B40251571E500329EE7 /* ContentView.swift */; };
 		AC613B43251571E600329EE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC613B42251571E600329EE7 /* Assets.xcassets */; };
 		AC613B46251571E600329EE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC613B45251571E600329EE7 /* Preview Assets.xcassets */; };
 		AC613B51251571E700329EE7 /* LiftVeilTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B50251571E700329EE7 /* LiftVeilTests.swift */; };
 		AC613B5C251571E700329EE7 /* LiftVeilUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC613B5B251571E700329EE7 /* LiftVeilUITests.swift */; };
-		ACC6BD30251576AC00F7A105 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC6BD2F251576AC00F7A105 /* LocationModel.swift */; };
 		ACC6BD4A251579C000F7A105 /* movie.gpx in Resources */ = {isa = PBXBuildFile; fileRef = ACC6BD49251579C000F7A105 /* movie.gpx */; };
 /* End PBXBuildFile section */
 
@@ -43,6 +43,7 @@
 		AC559A2025165A1500496AFF /* TrackSiteData_2020_clean.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TrackSiteData_2020_clean.json; sourceTree = "<group>"; };
 		AC559A252516611300496AFF /* TrackData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackData.swift; sourceTree = "<group>"; };
 		AC559A302516D0FC00496AFF /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		AC559A47251754C500496AFF /* LocationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		AC613B3B251571E500329EE7 /* LiftVeil.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LiftVeil.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC613B3E251571E500329EE7 /* LiftVeilApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiftVeilApp.swift; sourceTree = "<group>"; };
 		AC613B40251571E500329EE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,7 +56,6 @@
 		AC613B57251571E700329EE7 /* LiftVeilUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LiftVeilUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC613B5B251571E700329EE7 /* LiftVeilUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiftVeilUITests.swift; sourceTree = "<group>"; };
 		AC613B5D251571E700329EE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ACC6BD2F251576AC00F7A105 /* LocationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LocationModel.swift; path = ../../Swifterland/Swifterland/LocationModel.swift; sourceTree = "<group>"; };
 		ACC6BD49251579C000F7A105 /* movie.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = movie.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -109,8 +109,8 @@
 			children = (
 				AC613B6C2515723E00329EE7 /* Resources */,
 				AC613B3E251571E500329EE7 /* LiftVeilApp.swift */,
+				AC559A47251754C500496AFF /* LocationModel.swift */,
 				AC613B40251571E500329EE7 /* ContentView.swift */,
-				ACC6BD2F251576AC00F7A105 /* LocationModel.swift */,
 				AC559A252516611300496AFF /* TrackData.swift */,
 				AC613B42251571E600329EE7 /* Assets.xcassets */,
 				AC613B47251571E600329EE7 /* Info.plist */,
@@ -290,9 +290,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC559A48251754C500496AFF /* LocationModel.swift in Sources */,
 				AC613B41251571E500329EE7 /* ContentView.swift in Sources */,
 				AC559A262516611300496AFF /* TrackData.swift in Sources */,
-				ACC6BD30251576AC00F7A105 /* LocationModel.swift in Sources */,
 				AC613B3F251571E500329EE7 /* LiftVeilApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
